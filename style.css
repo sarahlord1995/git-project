@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #0D6EFD;
+    --blue-color: #7749F8;
+    --font-color: #000000;
+    ---secondary-color: #6C757D;
+    --color: #FFFFFF;
+    --font-family: 'Inter';
+    --font-400: 400;
+    --font-700: 700;
+    --font-900: 900;
+    --text-small: 14px;
+    --text-16: 16px;
+    --text-mid: 32px;
+    --text-smallest: 15px;
+    --text-default: 21px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
